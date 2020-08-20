@@ -1,6 +1,6 @@
-﻿namespace Cheater
+﻿namespace GLCapture
 {
-    partial class Form1
+    partial class CaptureView
     {
         /// <summary>
         /// 필수 디자이너 변수입니다.
@@ -64,7 +64,7 @@
             this.Controls.Add(this.pic);
             this.Controls.Add(this.lst_Log);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "OpenGL Capture";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pic)).EndInit();
             this.ResumeLayout(false);

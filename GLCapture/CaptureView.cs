@@ -10,12 +10,12 @@ using System.Runtime.Remoting.Channels.Ipc;
 using System.Security.Principal;
 using System.Windows.Forms;
 
-namespace Cheater
+namespace GLCapture
 {
-    public partial class Form1 : Form
+    public partial class CaptureView : Form
     {
 
-        public Form1()
+        public CaptureView()
         {
             InitializeComponent();
         }
