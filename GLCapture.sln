@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheater", "Cheater\Cheater.csproj", "{D76ABE12-0EF8-4063-AE9F-8ED12FF233A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLCapture", "GLCapture\GLCapture.csproj", "{D76ABE12-0EF8-4063-AE9F-8ED12FF233A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLHook", "GLHook\GLHook.csproj", "{6C74A4D9-ABB3-4850-9862-122B4B15B74D}"
 EndProject
